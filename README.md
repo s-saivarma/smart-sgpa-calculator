@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-[Click here to use Smart SGPA Calculator](https://smart-sgpa-calculator.onrender.com/calculate)
+[Click here to use Smart SGPA Calculator](https://smart-sgpa-calculator.onrender.com)
 
 ## 🛠️ Technologies Used
 
